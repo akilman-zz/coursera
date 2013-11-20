@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="scala" name="Scala">
+      <configuration>
+        <option name="compilerLibraryLevel" value="Project" />
+        <option name="compilerLibraryName" value="scala-2.10.2" />
+        <option name="deprecationWarnings" value="true" />
+        <option name="fsc" value="true" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../submission/target/scala-2.10/classes" />
+    <output-test url="file://$MODULE_DIR$/../submission/target/scala-2.10/test-classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../submission">
+      <sourceFolder url="file://$MODULE_DIR$/../submission/src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../submission/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../src/test/scala" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../src/test/resources" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../submission/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="org.scala-lang_scala-library_2.10.2" level="project" />
+    <orderEntry type="library" name="org.scalacheck_scalacheck_2.10_1.10.1" level="project" />
+    <orderEntry type="library" name="org.scala-tools.testing_test-interface_0.5" level="project" />
+    <orderEntry type="library" name="org.scala-lang_scala-actors_2.10.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="org.scalatest_scalatest_2.10_1.9.1_test" level="project" />
+    <orderEntry type="library" scope="TEST" name="org.scala-lang_scala-reflect_2.10.0_test" level="project" />
+    <orderEntry type="library" scope="TEST" name="junit_junit_4.10_test" level="project" />
+    <orderEntry type="library" scope="TEST" name="org.hamcrest_hamcrest-core_1.1_test" level="project" />
+  </component>
+</module>
+
