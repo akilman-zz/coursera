@@ -1,1 +1,20 @@
+# Vim swap files
 *.swp
+
+# Scala IDE (Eclipse) related
+lib_managed
+target
+.worksheet
+.cache
+.metadata
+.classpath
+.project
+.settings
+lib_managed
+
+# IntelliJ
+.idea
+*.iml
+*.ipr
+*.iws
+.idea_modules

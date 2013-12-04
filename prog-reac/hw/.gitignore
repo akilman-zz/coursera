@@ -1,12 +1,2 @@
-target
-.idea
-*.iml
-*.ipr
-*.iws
-.classpath
-.project
-.settings
-.idea_modules
 .history
 .cache
-lib_managed

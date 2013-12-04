@@ -1,5 +1,9 @@
+# No need to push lecture vids
 lectures
-utils
-*.swp
+
+# Emacs
 [#]*[#]
 *~
+
+# ???
+utils
